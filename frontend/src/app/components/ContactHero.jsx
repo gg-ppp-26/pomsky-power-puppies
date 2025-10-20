@@ -35,7 +35,7 @@ const ContactHero = () => {
                         </div>
                         <div>
                             <h3>Start Your Puppy Application:</h3>
-                            <span>Ready to begin the process of bringing home your new Pomsky? Please complete our short application on Good Dog using the link below. This ensures your application is connected directly to our program and that no fees are deducted from your payment.</span><br/><br/>
+                            <span>Ready to begin the process of bringing home your new Pomsky? Please complete our short application on Good Dog using the link below.</span><br/><br/>
                             <span>
      <a className="form-link" target='_blank' href="https://apply.gooddog.com/pomsky-power-puppies-pennsylvania">Apply on Good Dog</a>
                             </span>
