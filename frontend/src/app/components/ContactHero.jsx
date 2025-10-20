@@ -33,6 +33,15 @@ const ContactHero = () => {
                                 You may call us during our business hours, or text us anytime at <Link id="phone-link" href="tel:6108000012" >(610) 800-0012</Link>. If we do not answer please leave a message and we will respond to you as soon as possible.
                             </span>
                         </div>
+                        <div>
+                            <h3>Start Your Puppy Application:</h3>
+                            <span>Ready to begin the process of bringing home your new Pomsky? Please complete our short application on Good Dog using the link below. This ensures your application is connected directly to our program and that no fees are deducted from your payment.</span><br/><br/>
+                            <span>
+     <a className="form-link" target='_blank' href="https://apply.gooddog.com/pomsky-power-puppies-pennsylvania">Apply on Good Dog</a>
+                            </span>
+                            <br/><br/>
+                            <span>Once we receive your application, we’ll review it and contact you to discuss availability, next steps, and deposit details.</span>
+                        </div>
                         </div>
                         <div className="ppp-map">
                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12193.879166490753!2d-75.55528772109268!3d40.17635728681092!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c68fc91e1fe263%3A0xd02713ce92f2d098!2sSpring%20City%2C%20PA%2019475!5e0!3m2!1sen!2sus!4v1728926724970!5m2!1sen!2sus" width="500" height="300"  loading="lazy" ></iframe>
